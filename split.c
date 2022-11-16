@@ -210,5 +210,3 @@ char **split_line(char *input)
 
 	return (tokens);
 }
-Footer
-
