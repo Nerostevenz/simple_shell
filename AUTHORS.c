@@ -1,3 +1,0 @@
-Anthony Stephen Udoh
-AND 
-Obehi Obehioye Ilekhomo
